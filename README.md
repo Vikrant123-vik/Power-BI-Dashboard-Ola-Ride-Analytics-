@@ -133,5 +133,5 @@ Identifies peak demand hours by day of the week.
 ## 7. Screenshots / Demo
 
 📷 **Dashboard Preview**
-*(Insert OLA Ride Analytics dashboard image here)*
+*([Insert OLA Ride Analytics dashboard image here](https://github.com/Vikrant123-vik/Power-BI-Dashboard-Ola-Ride-Analytics-/blob/main/Snapshot%20Power%20BI%20Dashboard.png))*
 
